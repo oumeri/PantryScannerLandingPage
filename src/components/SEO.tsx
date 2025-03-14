@@ -14,7 +14,7 @@ const SEO = () => {
       <meta property="og:title" content="Pantry Scanner - Track Your Food Easily" />
       <meta property="og:description" content="Scan and track food items effortlessly with Pantry Scanner. Reduce waste and manage your kitchen smarter!" />
       <meta property="og:image" content="/Imgs/getStarted.JPG" />
-      <meta property="og:url" content="https://pantry-scanner-landing-page.vercel.app/#download" />
+      <meta property="og:url" content="https://pantry-scanner-landing-page.vercel.app/" />
       <meta property="og:type" content="website" />
 
       {/* Twitter Card */}
@@ -24,7 +24,7 @@ const SEO = () => {
       <meta name="twitter:image" content="/Imgs/getStarted.JPG" />
 
       {/* Canonical URL */}
-      <link rel="canonical" href="https://pantry-scanner-landing-page.vercel.app/#download" />
+      <link rel="canonical" href="https://pantry-scanner-landing-page.vercel.app/" />
     </Helmet>
   );
 };
