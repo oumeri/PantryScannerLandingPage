@@ -13,7 +13,7 @@ const SEO = () => {
       {/* Open Graph (Social Sharing) */}
       <meta property="og:title" content="Pantry Scanner - Track Your Food Easily" />
       <meta property="og:description" content="Scan and track food items effortlessly with Pantry Scanner. Reduce waste and manage your kitchen smarter!" />
-      <meta property="og:image" content="/Imgs/getStarted.JPG" />
+      <meta property="og:image" content="https://pantry-scanner-landing-page.vercel.app/Imgs/getStarted.JPG" />
       <meta property="og:url" content="https://pantry-scanner-landing-page.vercel.app/" />
       <meta property="og:type" content="website" />
 
@@ -21,7 +21,7 @@ const SEO = () => {
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Pantry Scanner - Your Food Tracking App" />
       <meta name="twitter:description" content="Manage your pantry efficiently with Pantry Scanner. Track expiry dates and reduce food waste!" />
-      <meta name="twitter:image" content="/Imgs/getStarted.JPG" />
+      <meta name="twitter:image" content="https://pantry-scanner-landing-page.vercel.app/Imgs/getStarted.JPG" />
 
       {/* Canonical URL */}
       <link rel="canonical" href="https://pantry-scanner-landing-page.vercel.app/" />
