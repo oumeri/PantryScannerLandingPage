@@ -14,6 +14,8 @@ const SEO = () => {
       <meta property="og:title" content="Pantry Scanner - Track Your Food Easily" />
       <meta property="og:description" content="Scan and track food items effortlessly with Pantry Scanner. Reduce waste and manage your kitchen smarter!" />
       <meta property="og:image" content="https://pantry-scanner-landing-page.vercel.app/Imgs/getStarted.JPG" />
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="630" />
       <meta property="og:url" content="https://pantry-scanner-landing-page.vercel.app/" />
       <meta property="og:type" content="website" />
 
