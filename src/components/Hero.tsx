@@ -49,7 +49,7 @@ function Hero() {
             className="relative flex justify-center items-center mt-8 md:mt-0 md:w-1/2"
           >
             <div className="w-72 h-[583px] bg-gray-200 rounded-3xl border-[5px] border-gray-900 shadow-xl relative overflow-hidden">
-              <img src="/Imgs/getStarted.JPG" alt="food" className="w-full object-cover rounded-xl" />
+              <img src="/Imgs/getStarted.JPG"  alt="Pantry Scanner App Preview" loading="lazy" className="w-full object-cover rounded-xl" />
             </div>
           </motion.div>
         </div>

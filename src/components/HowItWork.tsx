@@ -1,4 +1,4 @@
-import { Clock, MapPin, Scan, ShoppingBasket } from "lucide-react";
+import { Clock, Scan, ShoppingBasket } from "lucide-react";
 
 type Props = {
  

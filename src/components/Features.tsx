@@ -3,10 +3,10 @@ import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
 
 const images = [
-  { src: "/Imgs/Home.JPG", alt: "App Screen 1" },
-  { src: "/Imgs/ListItems.JPG", alt: "App Screen 2" },
-  { src: "/Imgs/login.JPG", alt: "App Screen 3" },
-  { src: "/Imgs/lostItems.JPG", alt: "App Screen 4" },
+  { src: "/Imgs/Home.JPG", alt: "Pantry Scanner App Preview" },
+  { src: "/Imgs/ListItems.JPG", alt: "Pantry Scanner App Preview" },
+  { src: "/Imgs/login.JPG", alt: "Pantry Scanner App Preview" },
+  { src: "/Imgs/lostItems.JPG", alt: "Pantry Scanner App Preview" },
 ];
 
 const features = [
@@ -87,6 +87,7 @@ export const Features = () => {
                 <img
                   src={image.src}
                   alt={image.alt}
+                  loading="lazy"
                   className="w-full object-cover rounded-lg"
                 />
               </motion.div>
